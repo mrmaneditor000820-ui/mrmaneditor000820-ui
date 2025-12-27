@@ -50,3 +50,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
   <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
