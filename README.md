@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Accessibility+%7C+Responsive+Design;JavaScript+Logic+Explorer;Woodworking+%26+Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="BANNER_IMAGE_URL" alt="MR GitHub Banner" />
+</p>
+
+
 ---
 
 ## 🚀 About Me
