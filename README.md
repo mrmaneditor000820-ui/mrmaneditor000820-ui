@@ -1,14 +1,13 @@
 # 👋 Hi, I'm MR  
 
-![Profile Banner](https://img.shields.io/badge/Front--End%20Developer-Accessibility%20%7C%20Responsive%20Design-blue?style=for-the-badge)  
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)  
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge)  
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;Accessibility+%7C+Responsive+Design;JavaScript+Logic+Explorer;Woodworking+%26+Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🚀 About Me
-- 💻 **Front-end Developer** with expertise in **semantic HTML, ARIA roles, accessibility, and responsive design**  
+- 💻 **Front-end Developer** with focus on **semantic HTML, ARIA roles, accessibility, responsive design**  
 - 🌍 Advocate of **inclusive design** – making the web usable for everyone  
 - ⚡ Exploring **JavaScript logic, loops, operator precedence**  
 - 🪚 Passionate about **woodworking craftsmanship** alongside tech projects  
@@ -17,12 +16,9 @@
 ---
 
 ## 🛠️ Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)  
-![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)  
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,git,vscode" />
+</p>
 
 ---
 
@@ -34,16 +30,17 @@
 ---
 
 ## 📊 GitHub Analytics
-![MR's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](#)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:yourname@email.com)  
-
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" /></a>
+  <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
