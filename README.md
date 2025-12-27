@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="MR GitHub Banner" />
+  <img src="./Copilot_20251227_204403.png" alt="MR GitHub Banner" />
 </p>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
