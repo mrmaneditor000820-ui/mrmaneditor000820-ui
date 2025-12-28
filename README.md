@@ -61,27 +61,27 @@
 
 <p align="center">
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="MR's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrmaneditor000820-ui&show_icons=true&theme=tokyonight" alt="MR's GitHub stats" />
   
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="MR's GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmaneditor000820-ui&theme=tokyonight" alt="MR's GitHub streak" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="MR's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaneditor000820-ui&layout=compact&theme=tokyonight" alt="MR's Top Languages" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&margin-w=15" alt="MR's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mrmaneditor000820-ui&theme=darkhub&margin-w=15" alt="MR's GitHub Trophies" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
 </p>
 
 
