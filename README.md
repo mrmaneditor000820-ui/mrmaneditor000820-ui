@@ -41,8 +41,6 @@
   <a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mrmaneditor000820-ui&theme=darkhub&margin-w=15h](https://github.com/ryo-ma/github-profile-trophy)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -51,26 +49,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrmaneditor000820-ui&show_icons=true&theme=tokyonight" alt="MR's GitHub stats" />
-  
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmaneditor000820-ui&theme=tokyonight" alt="MR's GitHub streak" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaneditor000820-ui&layout=compact&theme=tokyonight" alt="MR's Top Languages" />
-</p>
 
 ---
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrmaneditor000820-ui&theme=darkhub&margin-w=15" alt="MR's GitHub Trophies" />
-</p>
-
 ---
 
 ## 📈 Activity Graph
@@ -78,30 +59,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
 </p>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mrmaneditor000820-ui&show_icons=true&theme=radical" alt="MR's GitHub stats" />
-  
-  <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmaneditor000820-ui&theme=radical" alt="MR's GitHub streak" />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaneditor000820-ui&layout=compact&theme=radical" alt="MR's Top Languages" />
-</p>
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrmaneditor000820-ui&theme=darkhub&margin-w=15" alt="MR's GitHub Trophies" />
-</p>
 
 ---
 
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
-</p>
 
