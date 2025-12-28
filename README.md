@@ -84,4 +84,30 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
 </p>
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <!-- Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mrmaneditor000820-ui&show_icons=true&theme=radical" alt="MR's GitHub stats" />
+  
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmaneditor000820-ui&theme=radical" alt="MR's GitHub streak" />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmaneditor000820-ui&layout=compact&theme=radical" alt="MR's Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrmaneditor000820-ui&theme=darkhub&margin-w=15" alt="MR's GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmaneditor000820-ui&theme=tokyo-night" alt="MR's GitHub Activity Graph" />
+</p>
 
